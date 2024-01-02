@@ -9,7 +9,8 @@
 I'm a dedicated Software Engineer with extensive experience in Java, JavaScript, TypeScript, Python, and various frameworks and databases. I'm currently expanding my skills in Cybersecurity and Tailwind CSS.
 
 - 📫 How to reach me **davidprograms7@gmail.com**
-- ⚡ Fun fact **I used to run 100m in 11.3 sec, the point is that i am very fast⚡**
+- ⚡ Fun fact: Clocking in at 100 meters in just 11.3 seconds, I bring the same speed and efficiency to my code ⚡!
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
