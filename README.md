@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif" width="900" style="float:right; padding:10px ">
+</div>
 <h1 align="center">Hi 👋, I'm David Fashola</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -6,7 +9,7 @@
 I'm a dedicated Software Engineer with extensive experience in Java, JavaScript, TypeScript, Python, and various frameworks and databases. I'm currently expanding my skills in Cybersecurity and Tailwind CSS.
 
 - 📫 How to reach me **davidprograms7@gmail.com**
-- ⚡ Fun fact **I used to run 100m in 11.3 sec ⚡**
+- ⚡ Fun fact **I used to run 100m in 11.3 sec, the point is that i am very fast⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
