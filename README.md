@@ -38,7 +38,6 @@ I'm a dedicated Software Engineer with extensive experience in Java, JavaScript,
 ![](https://img.shields.io/badge/Style-Tailwind_CSS-teal)
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveprograms&show_icons=true&locale=en&layout=compact" alt="daveprograms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveprograms&show_icons=true&locale=en" alt="daveprograms" /></p>
 
